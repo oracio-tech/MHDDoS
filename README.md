@@ -133,7 +133,6 @@ You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/re
 
 ## Documentation
 
-You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
 
 **Clone and Install Script**
 
