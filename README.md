@@ -102,7 +102,7 @@ Our social's💻
 
 ## Downloads
 
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
+
 
 ### Getting Started
 
