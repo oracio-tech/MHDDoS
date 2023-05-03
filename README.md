@@ -102,7 +102,7 @@ Our social's💻
 
 ## Downloads
 
-You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/releases)
+You can download it from [GitHub Releases](https://github.com/oracio-tech/MHDDoS/releases)
 
 ### Getting Started
 
@@ -133,14 +133,15 @@ You can download it from [GitHub Releases](https://github.com/MatrixTM/MHDDoS/re
 
 ## Documentation
 
-You can read it from [GitHub Wiki](https://github.com/MatrixTM/MHDDoS/wiki)
+You can read it from [GitHub Wiki](https://github.com/oracio-tech/MHDDoS/wiki)
 
 **Clone and Install Script**
 
 ```shell script
-git clone https://github.com/MatrixTM/MHDDoS.git
+git clone https://github.com/oracio-tech/MHDDoS.git
 cd MHDDoS
 pip install -r requirements.txt
+(If that doesn't work, simply download the one located in "releases".)
 ```
 
 **One-Line Installing on Fresh VPS**
@@ -150,7 +151,7 @@ apt -y update && apt -y install curl wget libcurl4 libssl-dev python3 python3-pi
 ```
 
 [python3]: https://python.org 'Python3'
-[github issues]: https://github.com/MatrixTM/MHDDoS/issues 'enter'
+[github issues]: https://github.com/oracio-tech/MHDDoS/issues 'enter'
 
 ---
 
